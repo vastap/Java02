@@ -7,3 +7,9 @@
 [Lesson 01 - Lambda](./doc/lesson1.md)
 
 [Lesson 02 - StreamAPI](./doc/lesson2.md)
+
+[Lesson 03 - Optional](./doc/lesson3.md)
+
+[Lesson 04 - Spliterator](./doc/lesson4.md)
+
+[Lesson 05 - CompletableFeature](./doc/lesson5.md)
